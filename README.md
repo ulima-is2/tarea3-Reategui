@@ -12,4 +12,4 @@
 </table>  
 Pregunta 1 <br>
 Pregunta 2 <br>
-Pregunta 3 <br>
+Pregunta 3 : jpg y docx <br>
